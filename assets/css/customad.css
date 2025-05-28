@@ -128,15 +128,15 @@ section.latestone .container, section.latesttwo .container, section.latestthree 
 
 
 section.latestone {
-	background-image: url(https://cdn.jsdelivr.net/gh/cima4u/akwam/assets/images/banner2.webp);
+	background-image: url(https://cdn.jsdelivr.net/gh/cima4u/akwam/assets/images/feature2.webp);
 }
 
 section.latesttwo {
-	background-image: url(https://cdn.jsdelivr.net/gh/cima4u/akwam/assets/images/banner3.webp);
+	background-image: url(https://cdn.jsdelivr.net/gh/cima4u/akwam/assets/images/feature3.webp);
 }
 
 section.latestthree {
-	background-image: url(https://cdn.jsdelivr.net/gh/cima4u/akwam/assets/images/banner1.webp);
+	background-image: url(https://cdn.jsdelivr.net/gh/cima4u/akwam/assets/images/feature1.webp);
 }
 
 section.latestone .latestone-title, section.latesttwo .latesttwo-title, section.latestthree .latestthree-title {
@@ -265,7 +265,7 @@ section.courses .row .latestone-posts, section.courses .row .latesttwo-posts, se
 }
 
 section.single-post-iframe-section {
-	background-image: url(assets/images/contact-bg.jpg);
+	background-image: url(static/images/contact-bg.jpg);
 }
 
 .section-heading h3:before {
